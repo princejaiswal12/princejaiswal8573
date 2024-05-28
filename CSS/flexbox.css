@@ -1,0 +1,17 @@
+#container{
+    width: 80%;
+    height: 300px;
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+div{
+    width: 30%;
+    
+    height: 100px;
+}
+#br {
+    align-self: flex-end;
+}

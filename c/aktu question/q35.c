@@ -1,0 +1,1 @@
+// 35.	Write a program to compare the contents of two files and determine whether they are the same or not.

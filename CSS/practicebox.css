@@ -1,0 +1,22 @@
+#out{
+    width: 70px;
+    height: 200px;
+    border: 2px solid black;
+}
+.in{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+
+}
+#red{
+    background-color: red;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}

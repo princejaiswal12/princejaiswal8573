@@ -1,0 +1,31 @@
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    
+    animation-name: colouranimation;
+    
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes fontAnimation{
+    from{
+        font-size: 20px;
+    }
+    to{
+        font-size: 50px;
+    }
+}
+@keyframes colouranimation{
+    from{
+        background-color: pink;
+        font-size: 20px;
+    }
+    to{
+        background-color: green;
+        font-size: 50px;
+    }
+}

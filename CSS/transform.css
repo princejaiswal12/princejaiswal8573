@@ -1,0 +1,22 @@
+div {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: green;
+    border: 2px solid black;
+    margin: 50px;
+
+
+}
+div:nth-of-type(2n){
+    background-color: yellow;
+}
+#one {
+    transform: rotate(45deg);
+}
+#two {
+    transform: scale(2,0.5);
+}
+#three {
+    transform: skew(30deg);
+}
