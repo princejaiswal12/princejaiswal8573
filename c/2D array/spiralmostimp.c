@@ -50,7 +50,4 @@ int main(){
         minc++;
         if(count>=totele) break;
     }
-      
-    
-
-    }
+}
