@@ -1,6 +1,7 @@
 {
   "files.associations": {
-    "FLOATTOINTORINTTOFLOAT.C": "cpp"
+    "FLOATTOINTORINTTOFLOAT.C": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "C_Cpp_Runner.cCompilerPath": "gcc",

@@ -1,0 +1,5 @@
+def aPowerb(a,b):
+    if b==0 :
+        return 1
+    return a*aPowerb(a,b-1)
+print(aPowerb(2,4))

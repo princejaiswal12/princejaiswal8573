@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class largest {
     public static int largestvalue(int number[]){
         int larv=Integer.MIN_VALUE;

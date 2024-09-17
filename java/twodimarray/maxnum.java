@@ -1,8 +1,4 @@
-
-
 import java.util.*;
-
-
 public class maxnum {
     public static void maxnum(int[][] arr){
     int max=Integer.MIN_VALUE;
